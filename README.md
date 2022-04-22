@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portifolio in mobile skeleton
+# Portifolio in mobile version
 
 > This project is part of the day 4 of the Microverse Program in which is resquested to do a portifolio mobile version. This portifolio is where all of my projects and as well as my skills will be uploaded on it in the future.
 
