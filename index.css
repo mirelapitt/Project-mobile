@@ -9,7 +9,7 @@ body {
   margin: 0;
 }
 
-main{
+main {
   display: grid;
 }
 
@@ -21,12 +21,10 @@ main{
 
 .first-section {
   display: grid;
-  background-image: url('./images/header-shapes-mobile.jpg');
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0;
-  display: block;
   width: 100vw;
   margin-top: 61px;
 }
@@ -38,6 +36,12 @@ main{
 
 .section1 {
   padding: 0 16px;
+  background-image: url('./images/header-shapes-mobile.jpg');
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  
 }
 
 .header {
@@ -98,7 +102,7 @@ main{
   display: inline-block;
 }
 
-.social_links2>li {
+.social_links2 > li {
   padding: 37px;
   list-style: none;
   display: inline-block;
@@ -106,7 +110,7 @@ main{
   margin-top: -28px;
 }
 
-.social_links>li {
+.social_links > li {
   list-style: none;
   display: inline-block;
   margin-left: -3px;
@@ -181,13 +185,9 @@ main{
   margin-bottom: 54px;
 }
 
-.container5>.third-para {
+.container5 > .third-para {
   margin-top: 20px;
   margin-left: 2px;
-}
-
-.container5 {
-  height: 790px;
 }
 
 .languages {
@@ -221,6 +221,6 @@ ul {
   list-style-type: none;
 }
 
-.text{
+.text {
   margin-top: 10px;
 }
