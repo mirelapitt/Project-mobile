@@ -101,7 +101,7 @@ main {
   display: inline-block;
 }
 
-.social_links2>li {
+.social_links2 > li {
   padding: 37px;
   list-style: none;
   display: inline-block;
@@ -109,7 +109,7 @@ main {
   margin-top: -28px;
 }
 
-.social_links>li {
+.social_links > li {
   list-style: none;
   display: inline-block;
   margin-left: -3px;
@@ -196,7 +196,7 @@ main {
 
 .get_my_resume:hover {
   background-color: #90b0ff;
-  color: #ffffff;
+  color: #fff;
   cursor: pointer;
 }
 
@@ -230,7 +230,8 @@ main {
   color: #fff;
 }
 
-.container5>.third-para {
+.container5, 
+.third-para {
   margin-top: 20px;
   margin-left: 2px;
 }
@@ -268,14 +269,13 @@ ul {
 }
 
 .white_container {
-  background-color: #ffffff;
+  background-color: #fff;
   border: solid;
   height: 494px;
   padding: 19px;
   border-radius: 18px;
   border-width: 2px;
   border-color: #e5e5e5;
-
 }
 
 .second_title {
