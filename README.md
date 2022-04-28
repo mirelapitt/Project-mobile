@@ -2,7 +2,7 @@
 
 # Portifolio in mobile version
 
-> This project is part of the day 4 of the Microverse Program in which is resquested to do a portifolio mobile version. This portifolio is where all of my projects and as well as my skills will be uploaded on it in the future. The structure of this project is basically a simple page in html and css file. The four pages are part of the sketelon of my future portifolio, but in a mobile version.
+> This project is part of the Microverse Program in which is resquested to do a portifolio in a mobile version. This portifolio is where all of my projects are, as well as my skills, which are going to be uploaded on it in the future. The structure of this project is basically a simple page in html and css file. The four pages are part of the sketelon of my future portifolio, but in a mobile version.
 
 ## Built With
 
