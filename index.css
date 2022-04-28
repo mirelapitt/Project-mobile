@@ -230,11 +230,6 @@ main {
   color: #fff;
 }
 
-.container5 {
-  margin-top: 20px;
-  margin-left: 2px;
-}
-
 .languages li {
   display: flex;
   align-items: center;
@@ -317,7 +312,7 @@ h4 {
   margin-bottom: -15px;
 }
 
-.languages span {
+.languages strong {
   margin-left: 19px;
 }
 
@@ -330,5 +325,5 @@ h4 {
 }
 
 p {
-  padding: 3% 5% 1% 2%;
+  padding: 3% 5% 1% 1%;
 }
